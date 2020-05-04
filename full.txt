@@ -261,7 +261,9 @@ bible.reader45
 bible.reader46
 bible.reader47
 bible.reader48
+bible.reader49
 bible.reader5
+bible.reader50
 bible.reader6
 bible.reader7
 bible.reader8
