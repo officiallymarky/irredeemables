@@ -390,3 +390,4 @@ bible.reader49
 bible.reader50
 bible.reader51
 ambience
+bible.reader52
