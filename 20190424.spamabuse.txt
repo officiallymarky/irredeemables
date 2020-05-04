@@ -386,3 +386,5 @@ yama.chan
 yoshi27
 yoshi-mitsu
 zafina
+bible.reader49
+bible.reader50
