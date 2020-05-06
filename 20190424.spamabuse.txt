@@ -392,3 +392,4 @@ bible.reader51
 ambience
 bible.reader52
 bible.reader53
+bible.reader54
