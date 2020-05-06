@@ -270,6 +270,7 @@ bible.reader52
 bible.reader53
 bible.reader54
 bible.reader55
+bible.reader56
 bible.reader6
 bible.reader7
 bible.reader8
