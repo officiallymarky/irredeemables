@@ -276,6 +276,7 @@ bible.reader7
 bible.reader8
 bible.reader9
 bible.readers1
+bible.readers2
 bible.tagalog
 big-power
 bigbrotherhouse
