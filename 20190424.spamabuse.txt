@@ -395,3 +395,4 @@ bible.reader53
 bible.reader54
 bible.reader55
 bible.reader56
+bible.readers1
