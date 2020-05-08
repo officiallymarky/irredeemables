@@ -399,3 +399,6 @@ bible.readers1
 bible.readers2
 bible.readers3
 bible.readers4
+rick.c137
+icanautomate
+berniebot
