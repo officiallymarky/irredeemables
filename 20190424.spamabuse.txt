@@ -416,3 +416,4 @@ complaints-8
 complaints-9
 complaints-10
 complaints-11
+minimalpris
