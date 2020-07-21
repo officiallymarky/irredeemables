@@ -510,6 +510,7 @@ crypt0vues
 crypto-animals
 crypto-story
 cryptoanimals
+cryptorecaps
 crystal-ball
 crystalliu
 ctrl
