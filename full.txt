@@ -1207,6 +1207,7 @@ lrc-consult
 lrdcf
 lucker
 lucky-chloe
+luext
 luke-123
 lul
 lulzsec
