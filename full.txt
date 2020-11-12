@@ -1811,6 +1811,7 @@ state
 statue
 stay-vigilant
 steem-123
+steem-bootcamp
 steem-consultant
 steem-historian
 steem-itasclub
