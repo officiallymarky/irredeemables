@@ -980,6 +980,7 @@ hiroyamagishi
 hispapr0
 historian
 hitman
+hive-destroyer
 hobbit
 hod
 hold
